@@ -19,8 +19,8 @@ All project screenshots and map assets are stored in the images/ folder at the r
 Main Wayfinding Interface
 ![images/Aravind-Eye-Hospital-Wayfinding-09-12-2026_10_00_PM.png](https://github.com/Jennifer-Vesilica-Rachel/Smart-Indoor-Navigation-System/blob/608a26e8c564383b136182bcd0689d09de05891a/images/Aravind-Eye-Hospital-Wayfinding-09-12-2026_10_00_PM.png?raw=true)
 
-Map
-https://github.com/Jennifer-Vesilica-Rachel/Smart-Indoor-Navigation-System/blob/608a26e8c564383b136182bcd0689d09de05891a/images/aeh%20map%20updated.drawio.png?raw=true
+Aravind Eye Hospital – Wayfinding Map
+![images/Aravind-Eye-Hospital-Wayfinding-09-12-2026_10_00_PM.png](https://github.com/Jennifer-Vesilica-Rachel/Smart-Indoor-Navigation-System/blob/main/images/aeh%20map%20updated.drawio.png?raw=true)
  
 Project Structure
 Aravind-Eye-Hospital-Wayfinding/
