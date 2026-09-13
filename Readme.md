@@ -16,7 +16,7 @@ A QR-code based indoor wayfinding system designed for Aravind Eye Hospital, Pudu
 
 ## Screenshots
 
-All project screenshots and map assets are stored in the images/ folder at the root of this repository.
+All project screenshots and map assets are stored in the `images/` folder at the root of this repository.
 
 ### Main Wayfinding Interface
 
