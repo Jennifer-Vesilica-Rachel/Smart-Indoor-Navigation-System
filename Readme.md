@@ -4,15 +4,15 @@ A QR-code based indoor wayfinding system designed for Aravind Eye Hospital, Pudu
 
 ## Features
 
-•	Interactive hospital map: View and explore different areas of the hospital. 
-•	QR-code based navigation: Scan QR codes to access the wayfinding system. 
-•	Location-based wayfinding: Helps users identify and navigate to specific hospital locations. 
-•	Clickable map locations: Select locations on the map to view destination information. 
-•	Visual destination information: Displays relevant information about selected locations. 
-•	Hospital sections: Includes areas such as in-patient, paying out-patient, and free out-patient sections. 
-•	Parking information: Shows car parking, doctors' parking, and bicycle parking areas. 
-•	Simple user interface: Designed to make navigation easier for patients and visitors. 
-•	Responsive design: Suitable for use on different screen sizes.
+- **Interactive hospital map**: View and explore different areas of the hospital. 
+- **QR-code based navigation**: Scan QR codes to access the wayfinding system. 
+- **Location-based wayfinding**: Helps users identify and navigate to specific hospital locations. 
+- **Clickable map locations**: Select locations on the map to view destination information. 
+- **Visual destination information**: Displays relevant information about selected locations. 
+- **Hospital sections**: Includes areas such as in-patient, paying out-patient, and free out-patient sections. 
+- **Parking information**: Shows car parking, doctors' parking, and bicycle parking areas. 
+- **Simple user interface**: Designed to make navigation easier for patients and visitors. 
+- **Responsive design**: Suitable for use on different screen sizes.
 
 ## Screenshots
 
@@ -43,13 +43,13 @@ Aravind-Eye-Hospital-Wayfinding/
 
 ## Technologies
 
-•	React.js 
-•	JavaScript 
-•	Tailwind CSS 
-•	Vite 
-•	HTML5 
-•	CSS3 
-•	Netlify 
+- React.js 
+- JavaScript 
+- Tailwind CSS 
+- Vite 
+- HTML5 
+- CSS3 
+- Netlify 
 
 ## How It Works
 
