@@ -1,8 +1,9 @@
-Aravind Eye Hospital - Wayfinding
+# Aravind Eye Hospital - Wayfinding
 
 A QR-code based indoor wayfinding system designed for Aravind Eye Hospital, Puducherry. The application provides an interactive hospital map that helps patients and visitors easily locate different sections, facilities, parking areas, entrances, and other destinations within the hospital.
 
-Features
+## Features
+
 •	Interactive hospital map: View and explore different areas of the hospital. 
 •	QR-code based navigation: Scan QR codes to access the wayfinding system. 
 •	Location-based wayfinding: Helps users identify and navigate to specific hospital locations. 
@@ -13,16 +14,21 @@ Features
 •	Simple user interface: Designed to make navigation easier for patients and visitors. 
 •	Responsive design: Suitable for use on different screen sizes.
 
-Screenshots
+## Screenshots
+
 All project screenshots and map assets are stored in the images/ folder at the root of this repository.
 
-Main Wayfinding Interface
+### Main Wayfinding Interface
+
 ![images/Aravind-Eye-Hospital-Wayfinding-09-12-2026_10_00_PM.png](https://github.com/Jennifer-Vesilica-Rachel/Smart-Indoor-Navigation-System/blob/608a26e8c564383b136182bcd0689d09de05891a/images/Aravind-Eye-Hospital-Wayfinding-09-12-2026_10_00_PM.png?raw=true)
 
-Aravind Eye Hospital – Wayfinding Map
+### Aravind Eye Hospital – Wayfinding Map
+
 ![images/Aravind-Eye-Hospital-Wayfinding-09-12-2026_10_00_PM.png](https://github.com/Jennifer-Vesilica-Rachel/Smart-Indoor-Navigation-System/blob/main/images/aeh%20map%20updated.drawio.png?raw=true)
  
-Project Structure
+## Project Structure
+
+```
 Aravind-Eye-Hospital-Wayfinding/
 ├── index.html
 ├── assets/
@@ -33,7 +39,10 @@ Aravind-Eye-Hospital-Wayfinding/
 │   ├── aeh-map-updated.png
 │   └── aeh-map-final.png
 └── README.md
-Technologies
+```
+
+## Technologies
+
 •	React.js 
 •	JavaScript 
 •	Tailwind CSS 
@@ -41,18 +50,21 @@ Technologies
 •	HTML5 
 •	CSS3 
 •	Netlify 
-How It Works
+
+## How It Works
+
 1.	User scans a QR code provided at the hospital. 
 2.	The wayfinding application opens in the browser. 
 3.	The user views the hospital map. 
 4.	Different hospital sections and facilities can be identified on the map. 
 5.	The user selects a required destination. 
-6.	The application provides visual information to help the user locate the destination. 
-Project Development
+6.	The application provides visual information to help the user locate the destination.
+
+## Project Development
+
 The project was developed as an indoor hospital navigation system to make it easier for patients and visitors to find different locations within Aravind Eye Hospital.
 The system focuses on providing a simple digital wayfinding experience through QR-code access, an interactive map, clickable locations, and visual destination information.
-Deployment
-The application is deployed on Netlify.
-Live Demo:
-https://aravind-map-raesha0506.netlify.app/
-¬¬¬¬
+
+## Deployment
+
+The application is deployed on Netlify: `https://aravind-map-raesha0506.netlify.app/`
